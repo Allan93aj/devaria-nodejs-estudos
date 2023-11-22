@@ -1,1 +1,6 @@
-console.log("teste123")
+const readline = require('readline').createInterface({
+    input: process.stdin,
+    output: process.stdout
+})
+
+
